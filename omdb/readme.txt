@@ -1,4 +1,4 @@
-Project is made with AngularJS
+Project is made with AngularJS.
 
 The info page is a work in progress, some features are missing like back button.
 
